@@ -1,4 +1,6 @@
 # Promise.try
+
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
 ECMAScript Proposal, specs, and reference implementation for `Promise.try`
 
 Spec drafted by [@ljharb](https://github.com/ljharb).
